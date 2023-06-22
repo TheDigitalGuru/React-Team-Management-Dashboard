@@ -9,7 +9,7 @@ https://youtu.be/wYpCWwD1oz0
 
 
 You can launch this app from this link here: <br />
-https://thedigitalguru.github.io/React-Team-Management-Dashboard
+https://thedigitalguru.github.io/React-Team-Management-Dashboard <br />
 (Note: I'm having trouble getting the profile to work with how github pages compiles this code, but a simple demonstration is what I wanted to provide for you.)
 
 I will be completing the functionality of this code soon on a new branch otherwise. 
