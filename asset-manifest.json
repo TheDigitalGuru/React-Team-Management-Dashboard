@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Team-Management-Dashboard/static/css/main.7c2c52cd.css",
-    "main.js": "/React-Team-Management-Dashboard/static/js/main.aedf2544.js",
+    "main.js": "/React-Team-Management-Dashboard/static/js/main.8ebb340a.js",
     "index.html": "/React-Team-Management-Dashboard/index.html",
     "main.7c2c52cd.css.map": "/React-Team-Management-Dashboard/static/css/main.7c2c52cd.css.map",
-    "main.aedf2544.js.map": "/React-Team-Management-Dashboard/static/js/main.aedf2544.js.map"
+    "main.8ebb340a.js.map": "/React-Team-Management-Dashboard/static/js/main.8ebb340a.js.map"
   },
   "entrypoints": [
     "static/css/main.7c2c52cd.css",
-    "static/js/main.aedf2544.js"
+    "static/js/main.8ebb340a.js"
   ]
 }
